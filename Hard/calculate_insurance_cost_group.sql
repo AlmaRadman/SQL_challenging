@@ -4,6 +4,8 @@ insurance, and $10 for patients with insurance.
  All patients with an even patient_id have insurance.
 Give each patient a 'Yes' if they have insurance,
  and a 'No' if they don't have insurance. 
+  
+  link:https://www.sql-practice.com/
   */ 
 
 SELECT 
